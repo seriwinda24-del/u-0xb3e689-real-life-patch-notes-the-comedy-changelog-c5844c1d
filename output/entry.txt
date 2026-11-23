@@ -1,0 +1,1 @@
+v2.0.3: Fixed an issue where the inner cheek swells after being bitten, guaranteeing further bites; please chew on the opposite side until 2.0.4 ships.
